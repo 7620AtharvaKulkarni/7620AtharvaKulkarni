@@ -46,17 +46,6 @@ Project and task management application built using Oracle APEX.
 - Kanban board
 - Authentication & authorization
 
-### 📌 Service Management Portal
-Enterprise service management application built with Angular and .NET.
-
-**Focus Areas:**
-- Responsive UI
-- Service request management
-- Search & filtering
-- API integration
-- Role-based functionality
-- SQL Server integration
-
 ### 📌 GovAssist
 AI-powered chatbot concept designed to simplify access to government information.
 
